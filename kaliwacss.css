@@ -1,0 +1,17 @@
+img
+{
+	width: 150px;
+	float: left;
+}
+body
+{
+	background: #A9DCE3;
+}
+a
+{
+	color: white;
+	text-decoration: none;
+	font-family: arial;
+	font-size: 20px;
+	font-weight: bold;
+}
